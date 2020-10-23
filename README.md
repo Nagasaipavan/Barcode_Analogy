@@ -6,7 +6,7 @@ If we want to analyze data from our algorithm, we generally log the output varia
 Now, here "Barcode_Analogy" introduces new a new way of representation of algorithm data using barcode analogy.
 
 Generally, in Barcode, there will be machine readable information. But in this project,each strip of barcode is each processed frame output parameter.(doesnt contain any machine readable info)
-you can refer the idea in detail by following this link:
+you can refer the idea in detail by following this link: https://nagasaipavan-v.medium.com/novel-visualization-technique-barcode-analogy-f8942e807a0e
 
 Overall concept is as below.
 
